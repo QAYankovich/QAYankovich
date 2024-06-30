@@ -79,12 +79,24 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| https://rusau.net/ Функциональное тестирование ПО               | 04/2024 - 07/2024 |
 
---- -->
+--- 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+### Testing Artefacts  
+
+[Теория тестирования](https://github.com/QAYankovich/theory)  
+[Тестирование веб-приложеня](https://github.com/QAYankovich/web)  
+[Тестовая документация](https://github.com/QAYankovich/docs)  
+[Техники тест-дизайна](https://github.com/QAYankovich/design)  
+[Тестирование API](https://github.com/QAYankovich/api)  
+[Работа с базами данных](https://github.com/QAYankovich/database)  
+[Тестирование мобильных приложений](https://github.com/QAYankovich/mobile)  
+[Git and Bash](https://github.com/QAYankovich/git_bash)  
+[HTML/CSS](https://github.com/QAYankovich/QAYankovich.github.io)  
+
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
