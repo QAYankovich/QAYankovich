@@ -99,4 +99,4 @@
 [Git and Bash](https://github.com/QAYankovich/git_bash)  
 [HTML/CSS](https://github.com/QAYankovich/QAYankovich.github.io)  
 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+ <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau) -->
