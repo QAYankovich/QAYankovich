@@ -21,7 +21,12 @@
     </a>
   </div>
 
----
+---  
+
+### My CV:   
+## [Link](https://drive.google.com/file/d/1M48e87ptrntIB0oOAjV_LKD2pTnETBz_/view)
+
+---  
 
 ### 📁 Тестовая документация:
 
