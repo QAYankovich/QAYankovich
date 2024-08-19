@@ -24,7 +24,7 @@
 ---  
 
 ### My CV:   
-## [Link](https://drive.google.com/file/d/1zyegtc8zyKPwaA0Pv1ME4ocdHA9xcFQH/view)
+## [Link](https://drive.google.com/file/d/16imhOFzldQNpA65WftVNwu2PInamvK_j/view)
 
 ---  
 
