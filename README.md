@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик.
+Я тестировщик. Мне нравиться помогать выпускать приложения без дефектов. Хочу расти и развиваться в области тестирования.
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@andrei-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D1%8F%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%87-a5867816a/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andrei.yankovich1@gmail.com)
 
